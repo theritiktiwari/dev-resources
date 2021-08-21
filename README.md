@@ -11,6 +11,9 @@ Find some resources which can help you and make your skills better and also help
 
 ### [Programming Languages](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages)
 - [Angular & React](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Angular%20%26%20React)
+- [C & C++](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/C%20%26%20C%2B%2B)
+- [HTML | CSS | JS](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/HTML%20%7C%20CSS%20%7C%20JS)
+- [Java](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Java)
 - [Kotlin](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Kotlin)
 - [MySQL](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/MySQL)
 - [PHP](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/PHP)
