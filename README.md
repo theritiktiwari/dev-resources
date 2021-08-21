@@ -4,6 +4,7 @@ Find some resources which can help you and make your skills better and also help
 
 ## List of Resources 
 - [AWS & GIT](https://github.com/theritiktiwari/dev-resources/tree/main/AWS%20%26%20GIT)
+- [DBMS](https://github.com/theritiktiwari/dev-resources/tree/main/DBMS)
 - [Data Structures and Algorithms](https://github.com/theritiktiwari/dev-resources/tree/main/Data%20Structures%20and%20Algorithms)
 - [Linux](https://github.com/theritiktiwari/dev-resources/tree/main/Linux)
 - [Networking](https://github.com/theritiktiwari/dev-resources/tree/main/Networking)
