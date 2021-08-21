@@ -8,3 +8,11 @@ Find some resources which can help you and make your skills better and also help
 - [Linux](https://github.com/theritiktiwari/dev-resources/tree/main/Linux)
 - [Networking](https://github.com/theritiktiwari/dev-resources/tree/main/Networking)
 - [Web Development](https://github.com/theritiktiwari/dev-resources/tree/main/Web%20Development)
+
+### [Programming Languages](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages)
+- [Angular & React](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Angular%20%26%20React)
+- [Kotlin](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Kotlin)
+- [MySQL](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/MySQL)
+- [PHP](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/PHP)
+- [Haskell](https://github.com/theritiktiwari/dev-resources/blob/main/Programming%20Languages/Haskell%20Notes.pdf)
+- [R](https://github.com/theritiktiwari/dev-resources/blob/main/Programming%20Languages/R%20Notes.pdf)
