@@ -1,5 +1,20 @@
 # Dev Resources
 
+<p align="center">
+  <a href="https://github.com/theritiktiwari/dev-resources/fork" target="blank">
+    <img src="https://img.shields.io/github/forks/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources Forks"/>
+  </a>
+  <a href="https://github.com/theritiktiwari/dev-resources/stargazers" target="blank">
+    <img src="https://img.shields.io/github/stars/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources stars"/>
+  </a>
+  <a href="https://github.com/theritiktiwari/dev-resources/issues" target="blank">
+    <img src="https://img.shields.io/github/issues/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources issues"/>
+  </a>
+  <a href="https://github.com/theritiktiwari/dev-resources/pulls" target="blank">
+    <img src="https://img.shields.io/github/issues-pr/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources pull-requests"/>
+  </a>
+</p>
+
 Find some resources which can help you and make your skills better and also help someone by uploading / telling them good resources.
 
 ## List of Resources [🔗](https://github.com/theritiktiwari/dev-resources)
@@ -35,5 +50,20 @@ Find some resources which can help you and make your skills better and also help
 
 
 ## Want to Contribute ?
-Fork the repository, upload/change the files, and then submit a Pull Request (PR). <br/>
-After submitting a PR, your data will be reviewed; if it is legitimate, it will be merged.
+
+First and foremost, thank you for taking the time to contribute!
+
+The steps listed below are a set of guidelines for donating to dev-resources:
+
+### Procedure:
+
+- Make a fork of the current repository. This is your local copy, where you may make modifications.
+- Update the local clone or directly on the forked repo, adding new resources of the relevant kind.
+- Generate a Pull Request containing your proposed modifications.
+
+You have completed all of the steps!
+
+
+**NOTE :** Your data will be evaluated once you submit a PR; if it is valid, it will be merged.
+
+#### THANK YOU AGAIN TO EVERYONE WHO HAS CONTRIBUTED!
