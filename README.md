@@ -30,3 +30,10 @@ Find some resources which can help you and make your skills better and also help
 
 ## CheatSheet 🔗
 - [Python](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Python/CheatSheet)
+
+
+
+
+## Want to Contribute ?
+Fork the repository, upload/change the files, and then submit a Pull Request (PR). <br/>
+After submitting a PR, your data will be reviewed; if it is legitimate, it will be merged.
