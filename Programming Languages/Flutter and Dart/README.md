@@ -5,6 +5,9 @@
  
  Dart can compile to either native code or JavaScript.
  
+
+Dart owns a vast community of active developers with extensive knowledge in the field. This community comprises developers from all parts of the world. So, in case you face any issue while coding with Dart then you can always find a reliable hand to assist you. 
+ 
  
 # Advantages of Dart
 
@@ -14,17 +17,4 @@
   - Can write a program without configuration or installation
 
 
-# Flutter
- 
- Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web from a single codebase.
 
-It provides developers with a platform to build and deploy natively compiled, visually attractive applications for various platforms with ease. 
-
-
-# Advantages of Flutter
-
-  - Create a MVP super fast
-  - Performance comparable to that of a native application
-  - Open-source
-  - Powerful tech community
-  
