@@ -40,8 +40,8 @@ Find some resources which can help you and make your skills better and also help
 - [R](https://github.com/theritiktiwari/dev-resources/blob/main/Programming%20Languages/R%20Notes.pdf)
 
 ## Frameworks [🔗](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks)
-- [Angular](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Angular%20%26%20React)
-- [React](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Angular%20%26%20React)
+- [Angular](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Angular)
+- [React](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/React)
 - [Django](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Django)
 
 ## CheatSheet [🔗](https://github.com/theritiktiwari/dev-resources/tree/main/CheatSheet)
