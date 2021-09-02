@@ -39,13 +39,13 @@ Find some resources which can help you and make your skills better and also help
 - [Haskell](https://github.com/theritiktiwari/dev-resources/blob/main/Programming%20Languages/Haskell%20Notes.pdf)
 - [R](https://github.com/theritiktiwari/dev-resources/blob/main/Programming%20Languages/R%20Notes.pdf)
 
-## Frameworks 🔗
-- [Angular](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Angular%20%26%20React)
-- [React](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Angular%20%26%20React)
-- [Django](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Python/django)
+## Frameworks [🔗](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks)
+- [Angular](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Angular%20%26%20React)
+- [React](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Angular%20%26%20React)
+- [Django](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks/Django)
 
-## CheatSheet 🔗
-- [Python](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages/Python/CheatSheet)
+## CheatSheet [🔗](https://github.com/theritiktiwari/dev-resources/tree/main/CheatSheet)
+- [Python](https://github.com/theritiktiwari/dev-resources/tree/main/CheatSheet/Python)
 
 
 
