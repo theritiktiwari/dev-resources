@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/theritiktiwari/dev-resources/fork" target="blank">
-    <img src="https://img.shields.io/github/forks/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources Forks"/>
-  </a>
+    <img src="https://shields.io/github/forks/theritiktiwari/dev-resources?color=6063C5&style=for-the-badge" alt="Developer Resources Forks"/>
+  </a> &nbsp;
   <a href="https://github.com/theritiktiwari/dev-resources/stargazers" target="blank">
-    <img src="https://img.shields.io/github/stars/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources stars"/>
-  </a>
-  <a href="https://github.com/theritiktiwari/dev-resources/issues" target="blank">
-    <img src="https://img.shields.io/github/issues/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources issues"/>
-  </a>
+    <img src="https://shields.io/github/stars/theritiktiwari/dev-resources?color=6063C5&style=for-the-badge" alt="Developer Resources stars"/>
+  </a>&nbsp;
+  <a href="https://github.com/theritiktiwari/dev-resources/issues">
+    <img src="https://shields.io/github/issues/theritiktiwari/dev-resources?color=default&style=for-the-badge" alt="Developer Resources issues"/>
+  </a>&nbsp;
   <a href="https://github.com/theritiktiwari/dev-resources/pulls" target="blank">
-    <img src="https://img.shields.io/github/issues-pr/theritiktiwari/dev-resources?style=plastic" alt="Developer Resources pull-requests"/>
-  </a>
+    <img src="https://shields.io/github/issues-pr/theritiktiwari/dev-resources?color=default&style=for-the-badge" alt="Developer Resources pull-requests"/>
+  </a>&nbsp;
 </p>
 
 Find some resources which can help you and make your skills better and also help someone by uploading / telling them good resources.
