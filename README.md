@@ -67,4 +67,9 @@ You have completed all of the steps!
 
 **NOTE :** Your data will be evaluated once you submit a PR; if it is valid, it will be merged.
 
-#### THANK YOU AGAIN TO EVERYONE WHO HAS CONTRIBUTED!
+
+### CONTRIBUTORS
+[![Contributors List](https://contrib.rocks/image?repo=theritiktiwari/dev-resources)](https://github.com/theritiktiwari/dev-resources/graphs/contributors)
+
+
+##### THANK YOU AGAIN TO ALL THE CONTRIBUTORS!
