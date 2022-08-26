@@ -18,11 +18,17 @@
 Find some resources which can help you and make your skills better and also help someone by uploading / telling them good resources.
 
 ## List of Resources [🔗](https://github.com/theritiktiwari/dev-resources)
+- [100 ebooks](https://github.com/theritiktiwari/dev-resources/tree/main/100%20ebooks)
 - [AWS & GIT](https://github.com/theritiktiwari/dev-resources/tree/main/AWS%20%26%20GIT)
+- [Android Development](https://github.com/theritiktiwari/dev-resources/tree/main/Android%20Development)
+- [CheatSheet](https://github.com/theritiktiwari/dev-resources/tree/main/CheatSheet)
 - [DBMS](https://github.com/theritiktiwari/dev-resources/tree/main/DBMS)
 - [Data Structures and Algorithms](https://github.com/theritiktiwari/dev-resources/tree/main/Data%20Structures%20and%20Algorithms)
+- [Frameworks](https://github.com/theritiktiwari/dev-resources/tree/main/Frameworks)
 - [Linux](https://github.com/theritiktiwari/dev-resources/tree/main/Linux)
+- [ML](https://github.com/theritiktiwari/dev-resources/tree/main/ML)
 - [Networking](https://github.com/theritiktiwari/dev-resources/tree/main/Networking)
+- [Other](https://github.com/theritiktiwari/dev-resources/tree/main/Other)
 - [Programming Languages](https://github.com/theritiktiwari/dev-resources/tree/main/Programming%20Languages)
 - [Web Development](https://github.com/theritiktiwari/dev-resources/tree/main/Web%20Development)
 
@@ -46,6 +52,10 @@ Find some resources which can help you and make your skills better and also help
 
 ## CheatSheet [🔗](https://github.com/theritiktiwari/dev-resources/tree/main/CheatSheet)
 - [Python](https://github.com/theritiktiwari/dev-resources/tree/main/CheatSheet/Python)
+- [CPP](https://github.com/theritiktiwari/dev-resources/blob/main/CheatSheet/CPP.pdf)
+- [Excel](https://github.com/theritiktiwari/dev-resources/blob/main/CheatSheet/Excel.pdf)
+- [React](https://github.com/theritiktiwari/dev-resources/blob/main/CheatSheet/React.pdf)
+- [VS Code](https://github.com/theritiktiwari/dev-resources/blob/main/CheatSheet/VS%20Code.pdf)
 
 
 
